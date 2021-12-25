@@ -23,3 +23,5 @@ DOI: 10.1016/j.cell.2019.06.024. GEO: GSE131928
 https://singlecell.broadinstitute.org/single_cell/study/SCP503/gradient-of-developmental-and-injury-reponse-transcriptional-states-define-functional-vulnerabilities-underpinning-glioblastoma-heterogeneity#study-download
 
 DOI: https://doi.org/10.1038/s43018-020-00154-9
+
+Note: For the Seurat clustering, you can choose to analyze higher number of PCA loadings. However, for the results we used top 10 PCA laodings only.
