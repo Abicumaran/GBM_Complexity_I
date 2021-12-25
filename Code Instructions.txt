@@ -1,6 +1,6 @@
 CODES AND TUTORIALS FOR CLUSTERING AND TRAJECTORY INFERENCE.
 
-1)	For Seurat: Follow the tutorial in the link below, step by step, to find the differential markers in top 25 PCA loadings using the RNA-Seq count matrix as your input data file.
+1)	For Seurat: Follow the tutorial in the link below, step by step, to find the differential markers in top 10 PCA loadings using the RNA-Seq count matrix as your input data file.
 https://satijalab.org/seurat/articles/pbmc3k_tutorial.html#finding-differentially-expressed-features-cluster-biomarkers- 
 2)	For BigSCale Clustering: Follow the instructions in the tutorial below with the RNA-Seq counts matrix as your input data file.
 https://github.com/iaconogi/bigSCale2#bigscale-2-gene-regulatory-networks-tutorial
