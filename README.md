@@ -25,3 +25,5 @@ https://singlecell.broadinstitute.org/single_cell/study/SCP503/gradient-of-devel
 DOI: https://doi.org/10.1038/s43018-020-00154-9
 
 Note: For the Seurat clustering, you can choose to analyze higher number of PCA loadings. However, for the results we used top 10 PCA laodings only.
+Change the directories in the scEpath code as appropriate (e.g., for the Rscript). The gene expression matrix was saved as "inpu_data.txt" in the folder
+and added to path when running the code.
