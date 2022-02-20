@@ -8,7 +8,7 @@ Title: Algorithmic Reconstruction of GBM Network Complexity
 
 Authors: Abicumaran Uthamacumaran and Morgan Craig* (Supervisor)
 
-BioRxiv Link to Paper: https://www.biorxiv.org/content/10.1101/2021.09.21.461255v1
+BioRxiv Link to Paper: https://www.biorxiv.org/content/10.1101/2021.09.21.461255
 
 doi: https://doi.org/10.1101/2021.09.21.461255
 
