@@ -12,7 +12,7 @@ BioRxiv Link to Paper: https://www.biorxiv.org/content/10.1101/2021.09.21.461255
 
 doi: https://doi.org/10.1101/2021.09.21.461255
 
-Currently Under Review: Journal of Translational Medicine (BMC)
+Currently Under Review.
 
 See the .txt file or Word document for code instructions. The single-cell datasets (count matrix) are available at the following repositories:
 
