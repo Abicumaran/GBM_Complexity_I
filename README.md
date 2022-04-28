@@ -1,7 +1,7 @@
 # GBM_Complexity_I
 Codes for Single-cell analysis in GBM transcriptional dynamics
 
-This Github Respository corresponds to all codes, tutorials, packages, and tutorials required for the single-cell data analysis from our iScience paper on GBM Cell Fate/Gene Expression Dynamics.
+This Github Respository corresponds to all codes, tutorials, packages, and information required for the single-cell data analysis from our iScience paper on GBM Cell Fate/Gene Expression Dynamics.
 
 Citation:
 
@@ -12,7 +12,7 @@ https://doi.org/10.1016/j.isci.2022.104179
 
 DATASET INSTRUCTIONS
 
-See iScience publication for durther details.
+See iScience publication for further computational details.
 
 See the .txt file or Word document for code instructions. The single-cell datasets (count matrix) are available at the following repositories:
 
